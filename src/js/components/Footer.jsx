@@ -28,7 +28,7 @@ class Footer extends Component {
         <div className="attrib">
           <p>
             <a href="//twitch.tv/p4wiwi" style={{ textDecoration: 'none', color: 'white' }}>
-              <FontAwesomeIcon icon={faAngleLeft} size="lg" /> Code by P4 /{' '}
+              <FontAwesomeIcon icon={faAngleLeft} size="lg" /> Fait avec amour! /{' '}
               <FontAwesomeIcon icon={faAngleRight} size="lg" />
             </a>
           </p>
