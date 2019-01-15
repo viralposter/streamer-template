@@ -31696,7 +31696,7 @@ var ChannelLink = _wrapComponent('ChannelLink')(function (_Component) {
         Button,
         _extends({}, this.props, { href: '//www.twitch.tv/' + this.props.data.twitch_channel }),
         _react3.default.createElement(_reactFontawesome2.default, { icon: _fontawesomeFreeBrands.faTwitch, size: 'lg', style: { marginRight: '10px' } }),
-        ' Venez me voir sur Twitch!'
+        ' Visit Channel'
       );
     }
   }]);
@@ -31960,9 +31960,9 @@ var Footer = _wrapComponent('Footer')(function (_Component) {
             null,
             _react3.default.createElement(
               'a',
-              { href: '//twitch.tv/p4wiwi', style: { textDecoration: 'none', color: 'white' } },
+              { href: '//twitch.tv/bobdanoob', style: { textDecoration: 'none', color: 'white' } },
               _react3.default.createElement(_reactFontawesome2.default, { icon: _fontawesomeFreeSolid.faAngleLeft, size: 'lg' }),
-              ' Made with love by P4 /',
+              ' Code by Bob /',
               ' ',
               _react3.default.createElement(_reactFontawesome2.default, { icon: _fontawesomeFreeSolid.faAngleRight, size: 'lg' })
             )
